@@ -1,2 +1,1 @@
-# SCT-APR26-0495
-# Task 1
+# SCT-APR26-0495 Task 1
